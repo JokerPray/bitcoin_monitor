@@ -1,0 +1,7 @@
+aiohttp
+aiofiles
+aiosqlite
+aiosmtplib
+tortoise-orm
+schedule
+python-dotenv
